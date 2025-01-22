@@ -1,12 +1,10 @@
 import lib from 'https://bash.ooo/lib.js';
 import Bot from 'https://raw.githubusercontent.com/TxThinkingInc/zhi.js/refs/heads/master/bot.js'
 
-// get from https://www.txthinking.com/zhi.html
-var bot_token = "TODO"
-// get from https://platform.openai.com/api-keys
-var openai_api_key = "TODO"
+var bot_token = "TODO" // get from https://www.txthinking.com/zhi.html
+var openai_api_key = "TODO" // get from https://platform.openai.com/api-keys
 var chats = [
-    // One bot can be used in multiple Chats
+    // One Bot Token can be used in multiple Chats
     {
         ChatUUID: "TODO", // get from https://www.txthinking.com/zhi.html
         Key: "TODO", // the Chat Key
