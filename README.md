@@ -20,7 +20,7 @@ ChatGPT Bot on Zhi: https://www.txthinking.com/zhi.html
 3. Install bun via [nami](https://github.com/txthinking/nami)
 
     ```
-    nami install bun bunu
+    nami install bun bun.plus
     ```
 
 4. Run
